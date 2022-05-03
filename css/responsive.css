@@ -1,0 +1,348 @@
+/*=========================
+extra small device satrts
+==========================*/
+@media(max-width:575px){
+    /*====================
+       nav part starts
+    =======================*/
+    .navbar .navbar-brand img{
+        width: 74% !important;
+        margin-left: -58px;
+    }
+    /*====================
+       nav part starts
+    =======================*/
+
+    /*====================
+       banner part starts
+    =======================*/
+    #banner {
+        padding-bottom: 50px !important;
+    }
+    #banner .banner-text h4 {
+        margin-top: 10px;
+        padding-right: 37px;
+        font-size: 26px;
+    }
+    #banner .banner-text p {
+        margin-top: 20px;
+        padding-right: 0px;
+        font-size: 16px;
+    }
+    #banner .banner-text a {
+        margin-top: 35px;
+        margin-right: 16px;
+        padding: 7px;
+        font-size: 14px;
+    }
+    #banner .banner-img img {
+        margin-top: 45px;
+        width: 80% !important;
+        margin-left: 35px;
+    }
+    /*====================
+       banner part ends
+    =======================*/
+
+    /*====================
+       about part starts
+    =======================*/
+    #about {
+        padding-bottom: 60px !important;
+    }
+    #about .about-text h4 {
+        margin-top: -89px;
+        font-size: 26px;
+    }
+    #about .about-text p {
+        margin-top: 16px;
+        font-size: 15px;
+        padding-right: 0px;
+    }
+    #about .about-text a {
+        margin-top: 35px;
+        padding: 7px;
+        font-size: 14px;
+        margin-bottom:40px !important;
+    }
+    #about .about-box {
+        display:none;
+    }
+    #about .about-img .video-icon {
+        width: 50px;
+        height: 50px;
+        bottom: 176px;
+        right: 149px;
+    }
+    #about .about-img .video-icon i {
+        font-size: 23px;
+        line-height: 50px;
+    }
+    /*====================
+       about part ends
+    =======================*/
+
+    /*======================
+       service part starts
+    =======================*/
+    #service {
+        padding-top: 40px;
+        padding-bottom: 23px !important;
+    }
+    #service .service-head h4 {
+        font-size: 28px;
+    }
+    #service .service-head p {
+        margin-top: 23px;
+        margin-bottom: 45px !important;
+        font-size: 16px;
+        padding: 0px 28px;
+    }
+    #service .service-img img{
+        width: 100%; 
+    }
+    #service .service-img h4 {
+        margin-top: 30px;
+        font-size: 26px;
+    }
+    #service .service-img p {
+        margin-top: 17px;
+        font-size: 16px;
+        padding: 0 26px;
+        margin-bottom: 30px !important;
+    }
+    /*====================
+      service part ends
+    =======================*/
+
+    /*====================
+      video part starts
+    =======================*/
+    #video {
+        padding-top: 60px;
+        padding-bottom: 60px !important;
+    }
+    #video .video-box {
+        display:none;
+    }
+    #video .video-img .video-icon {
+        width: 50px;
+        height: 50px;
+        bottom: 421px;
+        left: 138px;
+    }
+    #video .video-img .video-icon i {
+        font-size: 23px;
+        line-height:50px;
+    }
+    #video .video-text h4 {
+        margin-top: 30px;
+        font-size: 26px;
+    }
+    #video .video-text p {
+        margin-top: 16px;
+        font-size: 15px;
+        padding-right: 2px;
+    }
+    #video .video-text a {
+        margin-top: 35px;
+        padding: 7px;
+        font-size: 14px;
+    }
+    /*====================
+      video part ends
+    =======================*/
+
+    /*====================
+      title part starts
+    =======================*/
+    #title {
+        padding-top: 40px;
+        padding-bottom: 20px !important;
+    }
+    #title .title-head h4 {
+        font-size: 28px;
+    }
+    #title .title-head p {
+        margin-top: 23px;
+        margin-bottom: 45px !important;
+        font-size: 16px;
+        padding: 0px 28px;
+    }
+    #title .title-img img{
+        width: 100%; 
+    }
+    #title .title-img a {
+        margin-top: 31px;
+        margin-left: 101px;
+        font-size: 15px;
+        padding: 8px 23px;
+        margin-bottom:30px !important;
+    }
+    /*====================
+      title part ends
+    =======================*/
+
+    /*====================
+      team part starts
+    =======================*/
+    #team {
+        padding-top: 59px;
+        padding-bottom: 40px !important;
+    }
+    #team .team-head h4 {
+        font-size: 28px;
+    }
+    #team .team-head p {
+        margin-top: 23px;
+        margin-bottom: 45px !important;
+        font-size: 16px;
+        padding: 0px 28px;
+    }
+    #team .team-img h4 {
+        margin-top: 25px;
+        font-size: 19px;
+    }
+    #team .team-img p {
+        margin-top: 6px;
+        font-size: 17px;
+        padding-right: 3px;
+    }
+    #team .team-img .social-links i {
+        font-size: 23px;
+        margin-bottom: 35px !important;
+    }
+    /*====================
+      team part ends
+    =======================*/
+
+    /*====================
+      funfact part starts
+    =======================*/
+    #funfact {
+        padding-top: 50px;
+        padding-bottom: 30px !important;
+    }
+    #funfact .funfact-item a i {
+        font-size: 30px;
+        margin-left: 50px;
+    }
+    #funfact .funfact-item h4 {
+        margin-top: 35px;
+        font-size: 14px;
+    }
+    #funfact .funfact-item p {
+        margin-top: 20px;
+        font-size: 16px;
+    }
+    #funfact .funfact-item h4 {
+        margin-top: 17px;
+        font-size: 18px;
+        margin-bottom: 32px !important;
+    }
+    /*====================
+      funfact part ends
+    =======================*/
+
+    /*====================
+      post part ends
+    =======================*/
+    #post {
+        padding-top: 50px;
+        padding-bottom: 0px !important;
+    }
+    #post .post-head h4 {
+        font-size: 28px;
+    }
+    #post .post-head p {
+        margin-top: 23px;
+        margin-bottom: 55px !important;
+        font-size: 16px;
+        padding: 0px 28px;
+    }
+    #post .post-item {
+        transition: all linear 0.4s;
+        margin-bottom: 55px !important;
+    }
+    #post .post-item:hover{
+        margin-top:-30px;
+    }
+    #post .post-item .post-img img{
+        width:100%;
+    }
+    #post .post-text h4 {
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    #post .post-text h6 {
+        margin-top: 12px;
+        font-size: 16px;
+    }
+    #post .post-text p {
+        margin-top: 12px;
+        font-size: 15px;
+    }
+    #post .post-text h3 {
+        margin-top: 12px;
+        font-size: 17px;
+    }
+    /*====================
+      post part ends
+    =======================*/
+
+    /*====================
+      footer part starts
+    =======================*/
+    #footer {
+        padding-top: 30px;
+        padding-bottom: 60px !important;
+    }
+    #footer .footer-about h4 {
+        margin-bottom: 30px !important;
+        font-size: 26px;
+    }
+    #footer .footer-about ul{
+        margin-bottom: 30px !important;
+    }
+    #footer .footer-about ul li {
+        margin-top: 10px;
+        font-size: 14px;
+    }
+    #footer .footer-service h4 {
+        margin-bottom: 30px !important;
+        font-size: 26px;
+    }
+    #footer .footer-service ul li {
+        margin-top: 10px;
+        font-size: 14px;
+    }
+    #footer .footer-title h4 {
+        margin-bottom: 30px !important;
+        font-size: 26px;
+    }
+    #footer .footer-title p {
+        margin-top: 4px;
+        margin-bottom: 35px !important;
+        font-size: 15px;
+    }
+    #footer .footer-title form input {
+        width: 185px;
+        height: 70px;
+    }
+    #footer .footer-title form button {
+        width: 90px;
+        height: 70px;
+    }
+    #footer .footer-title form button i {
+        font-size: 20px;
+    }
+    #footer .social-links a i {
+        font-size: 24px;
+    }
+    /*====================
+      footer  part ends
+    =======================*/
+}
+/*=========================
+extra small device ends
+==========================*/
